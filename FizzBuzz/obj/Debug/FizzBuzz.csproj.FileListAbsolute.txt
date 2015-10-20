@@ -1,0 +1,5 @@
+c:\users\dave\documents\visual studio 2015\Projects\ClearMeasureDemo\FizzBuzz\bin\Debug\FizzBuzz.dll
+c:\users\dave\documents\visual studio 2015\Projects\ClearMeasureDemo\FizzBuzz\bin\Debug\FizzBuzz.pdb
+c:\users\dave\documents\visual studio 2015\Projects\ClearMeasureDemo\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+c:\users\dave\documents\visual studio 2015\Projects\ClearMeasureDemo\FizzBuzz\obj\Debug\FizzBuzz.dll
+c:\users\dave\documents\visual studio 2015\Projects\ClearMeasureDemo\FizzBuzz\obj\Debug\FizzBuzz.pdb

@@ -1,0 +1,8 @@
+c:\users\dave\documents\visual studio 2015\Projects\ClearMeasureDemo\ClearMeasureDemo\bin\Debug\ClearMeasureDemo.exe.config
+c:\users\dave\documents\visual studio 2015\Projects\ClearMeasureDemo\ClearMeasureDemo\bin\Debug\ClearMeasureDemo.exe
+c:\users\dave\documents\visual studio 2015\Projects\ClearMeasureDemo\ClearMeasureDemo\bin\Debug\ClearMeasureDemo.pdb
+c:\users\dave\documents\visual studio 2015\Projects\ClearMeasureDemo\ClearMeasureDemo\obj\Debug\ClearMeasureDemo.csprojResolveAssemblyReference.cache
+c:\users\dave\documents\visual studio 2015\Projects\ClearMeasureDemo\ClearMeasureDemo\obj\Debug\ClearMeasureDemo.exe
+c:\users\dave\documents\visual studio 2015\Projects\ClearMeasureDemo\ClearMeasureDemo\obj\Debug\ClearMeasureDemo.pdb
+c:\users\dave\documents\visual studio 2015\Projects\ClearMeasureDemo\ClearMeasureDemo\bin\Debug\FizzBuzz.dll
+c:\users\dave\documents\visual studio 2015\Projects\ClearMeasureDemo\ClearMeasureDemo\bin\Debug\FizzBuzz.pdb
